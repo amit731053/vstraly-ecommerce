@@ -45,7 +45,7 @@ export function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
           <span className="font-serif text-2xl font-bold tracking-tight text-foreground">
-            Rangoli
+            Vastralaya
           </span>
         </Link>
 
